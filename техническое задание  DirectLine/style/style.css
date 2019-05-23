@@ -70,7 +70,7 @@
       -ms-flex-align: center;
           align-items: center;
   font-family: "Open Sans Condensed", sans-serif;
-  background-image: url(/img/Rectangle.png);
+  background-image: url(Rectangle.png);
 }
 
 .InfoBlock .InfoBlock-iner {
@@ -82,14 +82,14 @@
   font-weight: bold;
   font-size: 48px;
   line-height: 72px;
-  color: #000000;
+  color: #FFFFFF;
 }
 
 .InfoBlock .InfoBlock-iner p {
   font-size: 48px;
   line-Height: 72px;
   line-Height: 150%;
-  color: #000000;
+  color: #FFFFFF;
 }
 
 /*Контакты*/

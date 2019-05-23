@@ -58,7 +58,7 @@ $Contacts-background: #23374F;
     justify-content: center;
     align-items: center;
     font-family: $open-sans;
-    background-image: url(/img/Rectangle.png);  
+    background-image: url(Rectangle.png);  
         
     .InfoBlock-iner{             
         width: 1180px;
@@ -68,13 +68,13 @@ $Contacts-background: #23374F;
             font-weight: bold;
             font-size: 48px;
             line-height: 72px; 
-            color: $black;       
+            color: $white;       
         } 
         p{  
             font-size: 48px;
             line-Height: 72px;
             line-Height: 150%;
-            color: $black;    
+            color: $white;    
         }
     }
 }
